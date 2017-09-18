@@ -1,1 +1,1 @@
-java -cp "format.jar:jcommander.jar:gson.jar" format.Format %*
+java -cp "format.jar;jcommander.jar;gson.jar" format.Format %*
